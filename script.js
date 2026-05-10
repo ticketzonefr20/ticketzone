@@ -234,7 +234,7 @@ var events = [
     id:12,
     name:"BTS – World Tour : Live in Paris",
     cat:"concert",
-    date:"2026-07-17",
+    date:"2026-07-18",
     time:"20:00",
     venue:"Stade de France",
     city:"Saint-Denis",
