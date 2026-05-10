@@ -248,6 +248,261 @@ var events = [
       {id:"VIP1",      label:"Vip1",          price:550, total:2,  sold:0}
     ]
   },
+   {
+    id:13,
+    name:"Céline Dion – Courage World Tour",
+    cat:"concert",
+    date:"2026-10-17",
+    time:"19:30",
+    venue:"Paris La Défense Arena",
+    city:"Nanterre",
+    photo:"https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&q=80",
+    desc:"Céline Dion fait son grand retour sur scène à Paris pour deux soirées inoubliables à la Paris La Défense Arena. La diva québécoise interprètera ses plus grands succès dans une mise en scène spectaculaire. Un moment historique à ne pas manquer.",
+    places:[
+      {id:"gradin_cat4",  label:"Gradin Cat. 4",           price:89.50,  total:4, sold:0},
+      {id:"gradin_cat3",  label:"Gradin Cat. 3",           price:111.50, total:4, sold:0},
+      {id:"gradin_cat2",  label:"Gradin Cat. 2",           price:133.50, total:4, sold:0},
+      {id:"gradin_cat1",  label:"Gradin Cat. 1",           price:199.50, total:4, sold:0},
+      {id:"gradin_or",    label:"Gradin Cat. Or",          price:232.50, total:3, sold:0},
+      {id:"part_cat2",    label:"Parterre Cat. 2",         price:133.50, total:4, sold:0},
+      {id:"part_cat1",    label:"Parterre Cat. 1",         price:199.50, total:4, sold:0},
+      {id:"trib_or",      label:"Tribune Or",              price:232.50, total:3, sold:0},
+      {id:"part_diam",    label:"Parterre Diamant",        price:276.50, total:4, sold:0},
+      {id:"part_pres",    label:"Parterre Prestige ⭐",    price:298.50, total:4, sold:0}
+    ] 
+    },
+   {
+    id:14,
+    name:"Jul – Stade de France 2026",
+    cat:"concert",
+    date:"2026-05-16",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80",
+    desc:"Après une année 2025 faste, Jul revient en 2026 avec deux concerts géants au Stade de France. Ces shows s'inscrivent dans la lignée de ses performances sold-out, promettant une scénographie de grande envergure pour le rappeur marseillais.",
+    places:[
+      {id:"carre_or",    label:"Carré Or",          price:196.00, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",       price:124.00, total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",       price:89.00,  total:4, sold:0},
+      {id:"cat3",        label:"Catégorie 3",       price:69.00,  total:4, sold:0},
+      {id:"pelouse",     label:"Pelouses",          price:89.00,  total:4, sold:0},
+      {id:"pelouse_ear", label:"Pelouse Early",     price:109.00, total:4, sold:0}
+    ]
+  },
+   {
+    id:15,
+    name:"The Weeknd – Hurry Up Forever Tour",
+    cat:"concert",
+    date:"2026-07-10",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&q=80",
+    desc:"Cette tournée mondiale des stades célèbre la trilogie d'albums de The Weeknd : After Hours (2020), Dawn FM (2022) et Hurry Up Tomorrow (2025). Le show propose une production futuriste et immersive, mettant en avant ses plus grands succès. 4 dates à Paris.",
+    places:[
+      {id:"carre_or",    label:"Carré Or",                  price:234.00, total:4, sold:0},
+      {id:"pelouse_or",  label:"Pelouse Or (Fosse Premium)",price:184.00, total:2, sold:0},
+      {id:"pelouse",     label:"Pelouse (Fosse Standard)",  price:151.00, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",               price:179.00, total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",               price:139.00, total:4, sold:0},
+      {id:"cat3",        label:"Catégorie 3",               price:96.00,  total:4, sold:0}
+    ]
+  },
+   {
+    id:16,
+    name:"The Weeknd – Hurry Up Forever Tour",
+    cat:"concert",
+    date:"2026-07-11",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&q=80",
+    desc:"Cette tournée mondiale des stades célèbre la trilogie d'albums de The Weeknd : After Hours (2020), Dawn FM (2022) et Hurry Up Tomorrow (2025). Le show propose une production futuriste et immersive, mettant en avant ses plus grands succès. 4 dates à Paris.",
+    places:[
+      {id:"carre_or",    label:"Carré Or",                  price:234.00, total:4, sold:0},
+      {id:"pelouse_or",  label:"Pelouse Or (Fosse Premium)",price:184.00, total:2, sold:0},
+      {id:"pelouse",     label:"Pelouse (Fosse Standard)",  price:151.00, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",               price:179.00, total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",               price:139.00, total:4, sold:0},
+      {id:"cat3",        label:"Catégorie 3",               price:96.00,  total:4, sold:0}
+    ]
+  },
+   {
+    id:17,
+    name:"The Weeknd – Hurry Up Forever Tour",
+    cat:"concert",
+    date:"2026-07-12",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&q=80",
+    desc:"Cette tournée mondiale des stades célèbre la trilogie d'albums de The Weeknd : After Hours (2020), Dawn FM (2022) et Hurry Up Tomorrow (2025). Le show propose une production futuriste et immersive, mettant en avant ses plus grands succès. 4 dates à Paris.",
+    places:[
+      {id:"carre_or",    label:"Carré Or",                  price:234.00, total:4, sold:0},
+      {id:"pelouse_or",  label:"Pelouse Or (Fosse Premium)",price:184.00, total:2, sold:0},
+      {id:"pelouse",     label:"Pelouse (Fosse Standard)",  price:151.00, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",               price:179.00, total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",               price:139.00, total:4, sold:0},
+      {id:"cat3",        label:"Catégorie 3",               price:96.00,  total:4, sold:0}
+    ]
+  },
+    {
+    id:18,
+    name:"David Guetta – The Ultimate Monolith Show",
+    cat:"concert",
+    date:"2026-06-12",
+    time:"19:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1574391884720-bbc3740c59d1?w=800&q=80",
+    desc:"Il s'agit du dernier spectacle de sa tournée monumentale Monolith. Ce concert propose une immersion totale avec une scénographie en forme de monolithe, mêlant visuels spectaculaires et son, considérée comme la production la plus ambitieuse de la carrière de David Guetta. 3 soirs exceptionnels.",
+    places:[
+      {id:"carre_or",  label:"Carré Or",      price:110.00, total:4, sold:0},
+      {id:"fosse",     label:"Fosse",         price:75.00,  total:4, sold:0},
+      {id:"cat1",      label:"Catégorie 1",   price:78.00,  total:4, sold:0},
+      {id:"cat2",      label:"Catégorie 2",   price:67.00,  total:4, sold:0},
+      {id:"cat3",      label:"Catégorie 3",   price:62.00,  total:4, sold:0},
+      {id:"cat4",      label:"Catégorie 4",   price:49.00,  total:4, sold:0}
+    ]
+  },
+    {
+    id:19,
+    name:"David Guetta – The Ultimate Monolith Show",
+    cat:"concert",
+    date:"2026-06-13",
+    time:"19:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1574391884720-bbc3740c59d1?w=800&q=80",
+    desc:"Il s'agit du dernier spectacle de sa tournée monumentale Monolith. Ce concert propose une immersion totale avec une scénographie en forme de monolithe, mêlant visuels spectaculaires et son, considérée comme la production la plus ambitieuse de la carrière de David Guetta. 3 soirs exceptionnels.",
+    places:[
+      {id:"carre_or",  label:"Carré Or",      price:110.00, total:4, sold:0},
+      {id:"fosse",     label:"Fosse",         price:75.00,  total:4, sold:0},
+      {id:"cat1",      label:"Catégorie 1",   price:78.00,  total:4, sold:0},
+      {id:"cat2",      label:"Catégorie 2",   price:67.00,  total:4, sold:0},
+      {id:"cat3",      label:"Catégorie 3",   price:62.00,  total:4, sold:0},
+      {id:"cat4",      label:"Catégorie 4",   price:49.00,  total:4, sold:0}
+    ]
+  },
+    {
+    id:20,
+    name:"Bad Bunny – DeBÍ TiRAR MáS FOToS World Tour",
+    cat:"concert",
+    date:"2026-07-05",
+    time:"20:00",
+    venue:"Paris La Défense Arena",
+    city:"Nanterre",
+    photo:"https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800&q=80",
+    desc:"Concerts de la superstar portoricaine de trap et reggaeton, incluant de nouvelles places en zone Los Vecinos derrière la scène. Bad Bunny s'impose comme l'un des artistes les plus attendus de 2026 pour deux soirs à Paris.",
+    places:[
+      {id:"carre_or_al", label:"Carré Or Allée",     price:202.70, total:4, sold:0},
+      {id:"cat_or",      label:"Catégorie Or",        price:180.70, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",         price:136.70, total:4, sold:0},
+      {id:"cat2_al",     label:"Catégorie 2 Allée",   price:131.20, total:2, sold:0},
+      {id:"cat3",        label:"Catégorie 3",         price:92.70,  total:4, sold:0},
+      {id:"fosse_or",    label:"Fosse Or",            price:180.70, total:4, sold:0},
+      {id:"fosse",       label:"Fosse Classique",     price:109.20, total:4, sold:0}
+    ]
+  },
+    {
+    id:21,
+    name:"Aya Nakamura – Stade de France 2026",
+    cat:"concert",
+    date:"2026-05-30",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&q=80",
+    desc:"Trois concerts événements qui s'annoncent comme le point culminant de la carrière de l'artiste de pop urbaine, présentant le nouvel album Destinée. Un triplé historique au Stade de France pour l'artiste française la plus écoutée dans le monde.",
+    places:[
+      {id:"carre_or_al",  label:"Carré Or Allée",           price:155.50, total:4, sold:0},
+      {id:"cat1_al",      label:"Catégorie 1 Allée",        price:133.50, total:4, sold:0},
+      {id:"cat1",         label:"Catégorie 1",              price:122.50, total:4, sold:0},
+      {id:"cat2",         label:"Catégorie 2",              price:99.40,  total:4, sold:0},
+      {id:"cat3",         label:"Catégorie 3",              price:89.50,  total:4, sold:0},
+      {id:"pelouse_or",   label:"Pelouse Or (Est ou Ouest)",price:99.40,  total:4, sold:0},
+      {id:"pelouse",      label:"Pelouse",                  price:64.20,  total:1, sold:0},
+      {id:"cat4",         label:"Catégorie 4",              price:67.50,  total:3, sold:0}
+    ]
+  },
+    {
+    id:22,
+    name:"Aya Nakamura – Stade de France 2026",
+    cat:"concert",
+    date:"2026-05-31",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?w=800&q=80",
+    desc:"Trois concerts événements qui s'annoncent comme le point culminant de la carrière de l'artiste de pop urbaine, présentant le nouvel album Destinée. Un triplé historique au Stade de France pour l'artiste française la plus écoutée dans le monde.",
+    places:[
+      {id:"carre_or_al",  label:"Carré Or Allée",           price:155.50, total:4, sold:0},
+      {id:"cat1_al",      label:"Catégorie 1 Allée",        price:133.50, total:4, sold:0},
+      {id:"cat1",         label:"Catégorie 1",              price:122.50, total:4, sold:0},
+      {id:"cat2",         label:"Catégorie 2",              price:99.40,  total:4, sold:0},
+      {id:"cat3",         label:"Catégorie 3",              price:89.50,  total:4, sold:0},
+      {id:"pelouse_or",   label:"Pelouse Or (Est ou Ouest)",price:99.40,  total:4, sold:0},
+      {id:"pelouse",      label:"Pelouse",                  price:64.20,  total:1, sold:0},
+      {id:"cat4",         label:"Catégorie 4",              price:67.50,  total:3, sold:0}
+    ]
+  },
+    {
+    id:23,
+    name:"System of a Down – Stade de France 2026",
+    cat:"concert",
+    date:"2026-07-04",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1619983081563-430f63602796?w=800&q=80",
+    desc:"Le groupe de metal alternatif revient en Europe après une longue absence pour deux dates parisiennes, accompagnés de Queens of the Stone Age et Acid Bath en premières parties. Un événement historique pour tous les fans de rock et metal.",
+    places:[
+      {id:"carre_or",    label:"Carré Or",         price:209.00, total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",      price:139.00, total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",      price:95.00,  total:4, sold:0},
+      {id:"pelouse_or",  label:"Pelouse Or (Fosse)",price:183.00, total:4, sold:0},
+      {id:"pelouse",     label:"Pelouse (Fosse)",  price:95.00,  total:4, sold:0}
+    ]
+  },
+   {
+    id:24,
+    name:"Damso – BĒYĀH TOUR",
+    cat:"concert",
+    date:"2026-05-30",
+    time:"20:00",
+    venue:"Paris La Défense Arena",
+    city:"Nanterre",
+    photo:"https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800&q=80",
+    desc:"Après 4 ans d'absence, le rappeur belge revient pour une série de concerts dans la plus grande salle d'Europe. Il présentera son projet BĒYĀH ainsi que ses plus grands classiques, dans une performance présentée comme une célébration de son parcours.",
+    places:[
+      {id:"diam",        label:"Catégorie Diamant",  price:109.00, total:4, sold:0},
+      {id:"or",          label:"Catégorie Or",       price:95.00,  total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",        price:80.00,  total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",        price:69.00,  total:4, sold:0},
+      {id:"fosse_ear",   label:"Fosse Early",        price:70.00,  total:4, sold:0},
+      {id:"fosse",       label:"Fosse Classique",    price:60.00,  total:4, sold:0}
+    ]
+  },
+   {
+    id:25,
+    name:"Damso – BĒYĀH TOUR",
+    cat:"concert",
+    date:"2026-05-31",
+    time:"20:00",
+    venue:"Paris La Défense Arena",
+    city:"Nanterre",
+    photo:"https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800&q=80",
+    desc:"Après 4 ans d'absence, le rappeur belge revient pour une série de concerts dans la plus grande salle d'Europe. Il présentera son projet BĒYĀH ainsi que ses plus grands classiques, dans une performance présentée comme une célébration de son parcours.",
+    places:[
+      {id:"diam",        label:"Catégorie Diamant",  price:109.00, total:4, sold:0},
+      {id:"or",          label:"Catégorie Or",       price:95.00,  total:4, sold:0},
+      {id:"cat1",        label:"Catégorie 1",        price:80.00,  total:4, sold:0},
+      {id:"cat2",        label:"Catégorie 2",        price:69.00,  total:4, sold:0},
+      {id:"fosse_ear",   label:"Fosse Early",        price:70.00,  total:4, sold:0},
+      {id:"fosse",       label:"Fosse Classique",    price:60.00,  total:4, sold:0}
+    ]
+  },
 ];
 
 /* ══ ÉTAT ══ */
