@@ -211,8 +211,8 @@ var events = [
       {id:"fosse_ear",   label:"Fosse Early",        price:70.00,  total:4, sold:0},
       {id:"fosse",       label:"Fosse Classique",    price:60.00,  total:4, sold:0}
     ]
-  }
-   ,{
+  },
+   {
     id:11,
     name:"The Strokes – Reality Awaits Paris 2026",
     cat:"concert",
