@@ -212,6 +212,23 @@ var events = [
       {id:"fosse",       label:"Fosse Classique",    price:60.00,  total:4, sold:0}
     ]
   }
+   ,{
+    id:11,
+    name:"The Strokes – Reality Awaits Paris 2026",
+    cat:"concert",
+    date:"2026-10-22",
+    time:"19:30",
+    venue:"Accor Arena",
+    city:"Paris",
+    photo:"https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=800&q=80",
+    desc:"Après plusieurs années, le groupe culte de rock new-yorkais se produit à Paris pour présenter son nouvel album Reality Awaits (sortie prévue le 26 juin 2026). Premières parties assurées par Fat White Family et Alex Cameron pour une soirée rock inoubliable à l'Accor Arena.",
+    places:[
+      {id:"carre_or", label:"Carré Or",      price:117.00, total:4, sold:0},
+      {id:"cat1",     label:"Catégorie 1",   price:95.00,  total:5, sold:0},
+      {id:"fosse",    label:"Fosse",         price:89.50,  total:5, sold:0},
+      {id:"cat2",     label:"Catégorie 2",   price:73.00,  total:5, sold:0}
+    ]
+  }
 ];
 
 /* ══ ÉTAT ══ */
