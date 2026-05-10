@@ -22,7 +22,7 @@ var events = [
     id:1,
     name:"BTS – World Tour : Live in Paris",
     cat:"concert",
-    date:"2026-07-17","2026-18-17",
+    date:"2026-07-17",
     time:"20:00",
     venue:"Stade de France",
     city:"Saint-Denis",
@@ -229,7 +229,25 @@ var events = [
       {id:"fosse",    label:"Fosse",         price:89.50,  total:5, sold:0},
       {id:"cat2",     label:"Catégorie 2",   price:73.00,  total:5, sold:0}
     ]
-  }
+  },
+   {
+    id:12,
+    name:"BTS – World Tour : Live in Paris",
+    cat:"concert",
+    date:"2026-07-17",
+    time:"20:00",
+    venue:"Stade de France",
+    city:"Saint-Denis",
+    photo:"https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+    desc:"Le phénomène mondial BTS débarque à Paris pour deux concerts exceptionnels dans le cadre de leur tournée mondiale ARIRANG. Le groupe sud-coréen, connu pour ses performances spectaculaires, ses chorégraphies millimétrées et ses hits planétaires comme Dynamite, Butter ou Permission to Dance, promet un show à couper le souffle. 160 000 fans attendus sur deux soirs.",
+    places:[
+      {id:"carre_or",  label:"Carré Or",      price:260.00, total:4,  sold:0},
+      {id:"cat1",      label:"Catégorie 1",   price:166.50, total:3,  sold:0},
+      {id:"cat3",      label:"Catégorie 3",   price:122.50, total:1,  sold:0},
+      {id:"cat4",      label:"Catégorie 4",   price:100.50, total:1,  sold:0},
+      {id:"VIP1",      label:"Vip1",          price:550, total:2,  sold:0}
+    ]
+  },
 ];
 
 /* ══ ÉTAT ══ */
