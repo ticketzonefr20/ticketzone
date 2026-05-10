@@ -349,12 +349,10 @@ function searchEvents(){
   var q=(document.getElementById("box-search").value||"").toLowerCase();
   var cat=document.getElementById("box-cat").value;
   var date=document.getElementById("box-date").value;
-  var city=document.getElementById("box-city").value;
   var list=events.slice();
   if(q)    list=list.filter(function(e){ return e.name.toLowerCase().indexOf(q)>-1||e.venue.toLowerCase().indexOf(q)>-1||e.city.toLowerCase().indexOf(q)>-1; });
   if(cat)  list=list.filter(function(e){ return e.cat===cat; });
   if(date) list=list.filter(function(e){ return e.date===date; });
-  if(city) list=list.filter(function(e){ return e.city===city; });
   renderEvents(list);
   document.getElementById("events-section").scrollIntoView({behavior:"smooth"});
 }
