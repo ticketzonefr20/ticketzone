@@ -22,7 +22,7 @@ var events = [
     id:1,
     name:"BTS – World Tour : Live in Paris",
     cat:"concert",
-    date:"2026-07-17",
+    date:"2026-07-17","2026-18-17",
     time:"20:00",
     venue:"Stade de France",
     city:"Saint-Denis",
@@ -32,7 +32,8 @@ var events = [
       {id:"carre_or",  label:"Carré Or",      price:260.00, total:4,  sold:0},
       {id:"cat1",      label:"Catégorie 1",   price:166.50, total:3,  sold:0},
       {id:"cat3",      label:"Catégorie 3",   price:122.50, total:1,  sold:0},
-      {id:"cat4",      label:"Catégorie 4",   price:100.50, total:1,  sold:0}
+      {id:"cat4",      label:"Catégorie 4",   price:100.50, total:1,  sold:0},
+      {id:"VIP1",      label:"Vip1",          price:550, total:2,  sold:0}
     ]
   },
   {
