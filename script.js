@@ -811,6 +811,102 @@ var events = [
     {id:"fosse",label:"Fosse",price:109.00,total:4,sold:0}
   ]
 },
+
+{
+  id:41,
+  name:"ENHYPEN – BLOOD SAGA",
+  cat:"concert",
+  date:"2027-02-27",
+  time:"20:00",
+  venue:"Paris La Défense Arena",
+  city:"Nanterre",
+  photo:"https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+  desc:"Le groupe sud-coréen ENHYPEN présente BLOOD SAGA à Paris La Défense Arena.",
+  places:[
+    {id:"vip",label:"VIP",price:299.00,total:2,sold:0},
+    {id:"gold",label:"Carré Or",price:199.00,total:4,sold:0},
+    {id:"cat1",label:"Catégorie 1",price:149.00,total:4,sold:0},
+    {id:"cat2",label:"Catégorie 2",price:109.00,total:4,sold:0},
+    {id:"cat3",label:"Catégorie 3",price:79.00,total:4,sold:0}
+  ]
+},
+
+{
+  id:42,
+  name:"Five Finger Death Punch",
+  cat:"concert",
+  date:"2027-02-10",
+  time:"20:00",
+  venue:"Accor Arena",
+  city:"Paris",
+  photo:"https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=800&q=80",
+  desc:"Le groupe américain de metal Five Finger Death Punch en concert à Paris.",
+  places:[
+    {id:"vip",label:"VIP",price:249.00,total:2,sold:0},
+    {id:"gold",label:"Carré Or",price:149.00,total:4,sold:0},
+    {id:"cat1",label:"Catégorie 1",price:109.00,total:4,sold:0},
+    {id:"cat2",label:"Catégorie 2",price:89.00,total:4,sold:0},
+    {id:"fosse",label:"Fosse",price:79.00,total:4,sold:0}
+  ]
+},
+
+{
+  id:43,
+  name:"Sofiane Pamart – Stade de France",
+  cat:"concert",
+  date:"2027-04-17",
+  time:"20:00",
+  venue:"Stade de France",
+  city:"Saint-Denis",
+  photo:"https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&q=80",
+  desc:"Premier pianiste français à se produire seul au Stade de France.",
+  places:[
+    {id:"vip",label:"VIP",price:150.00,total:2,sold:0},
+    {id:"gold",label:"Carré Or",price:120.00,total:4,sold:0},
+    {id:"cat1",label:"Catégorie 1",price:95.00,total:4,sold:0},
+    {id:"cat2",label:"Catégorie 2",price:75.00,total:4,sold:0},
+    {id:"cat3",label:"Catégorie 3",price:50.00,total:4,sold:0}
+  ]
+},
+
+{
+  id:44,
+  name:"SCH – Stade de France",
+  cat:"concert",
+  date:"2027-04-24",
+  time:"20:00",
+  venue:"Stade de France",
+  city:"Saint-Denis",
+  photo:"https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800&q=80",
+  desc:"Concert événement de SCH au Stade de France.",
+  places:[
+    {id:"diamant",label:"Catégorie Diamant",price:165.00,total:4,sold:0},
+    {id:"or",label:"Catégorie Or",price:139.00,total:4,sold:0},
+    {id:"cat1",label:"Catégorie 1",price:109.00,total:4,sold:0},
+    {id:"cat2",label:"Catégorie 2",price:89.00,total:4,sold:0},
+    {id:"pelouse",label:"Pelouse",price:69.00,total:4,sold:0}
+  ]
+},
+
+{
+  id:45,
+  name:"TIF – Accor Arena",
+  cat:"concert",
+  date:"2027-04-29",
+  time:"20:00",
+  venue:"Accor Arena",
+  city:"Paris",
+  photo:"https://images.unsplash.com/photo-1506157786151-b8491531f063?w=800&q=80",
+  desc:"TIF en concert à l’Accor Arena pour une date exceptionnelle.",
+  places:[
+    {id:"vip",label:"VIP",price:199.00,total:2,sold:0},
+    {id:"gold",label:"Carré Or",price:119.00,total:4,sold:0},
+    {id:"cat1",label:"Catégorie 1",price:89.00,total:4,sold:0},
+    {id:"cat2",label:"Catégorie 2",price:69.00,total:4,sold:0},
+    {id:"fosse",label:"Fosse",price:59.00,total:4,sold:0}
+  ]
+},
+
 ];
 
 /* ══ ÉTAT ══ */
